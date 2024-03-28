@@ -1,13 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Header from './Header'; // Import the Header component
+import Header from './Header';
 
 function App() {
   return (
     <div className="App">
-      <Header /> {/* Replace the header content with the Header component */}
-      {/* Content below the header */}
+      <Header />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
