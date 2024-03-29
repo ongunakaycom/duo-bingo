@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-header{
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 988px;
+  padding: 0;
+}
