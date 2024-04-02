@@ -13,14 +13,14 @@ function App() {
           Mark off the numbers as they're called out and aim to complete rows, columns, or diagonals to win big. 
           Whether you're a seasoned bingo pro or a newcomer, DuoBingo offers endless fun for players of all skill levels. Let the game begin!
         </p>
-        
+
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://duo-bingo.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Welcome to DuoBingo!
         </a>
       </header>
     </div>
