@@ -1,14 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Header from './Header';
+import DuobingoLogo from './duobingo.svg'; 
 
 function App() {
   return (
     <div className="App">
       <Header />
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={DuobingoLogo} className="App-logo" alt="logo" /> {/* */}
         <p>Welcome to DuoBingo! Get ready to challenge your friends or play solo in this exciting bingo experience.
         </p>
 
