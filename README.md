@@ -1,4 +1,4 @@
-# Duobingo (Duolingo Clone) - Portfolio Readme
+# Duobingo (Duolingo Clone)
 
 Duobingo is a Duolingo-inspired language learning web application built using React. It aims to provide a fun and interactive platform for users to practice and improve their language skills. This project was developed as part of my portfolio to showcase my frontend development skills and proficiency with React.
 
