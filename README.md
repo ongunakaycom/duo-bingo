@@ -29,7 +29,7 @@ To run Duobingo locally on your machine, follow these steps:
 
 ## Live Demo
 
-Check out the live demo of Duobingo [here](https://duobingo-demo.vercel.app/) to experience the language learning fun firsthand!
+Check out the live demo of Duobingo [here](https://duo-bingo.vercel.app) to experience the language learning fun firsthand!
 
 ## Feedback and Contributions
 
@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or questions regarding Duobingo, you can reach out to me at [your_email@example.com](mailto:your_email@example.com). Thank you for your interest in Duobingo!
+For any inquiries or questions regarding Duobingo, you can reach out to me at [info@ongunakay.com](mailto:info@ongunakay.com). Thank you for your interest in Duobingo!
