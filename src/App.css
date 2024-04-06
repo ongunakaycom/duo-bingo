@@ -47,3 +47,7 @@
 p {
   color: #58cc02;
 }
+
+.custom-header {  /* Assuming your navbar class is `custom-header` */
+  background-color: transparent;
+}
