@@ -3,7 +3,7 @@ import './App.css';
 
 const Header = () => {
   return (
-    <nav className="nnavbar navbar-expand-ml navbar-light custom-header">
+    <nav className="navbar navbar-expand-ml navbar-light custom-header">
       <a className="navbar-brand" href="/">
         <img
           src="https://d35aaqx5ub95lt.cloudfront.net/images/splash/f92d5f2f7d56636846861c458c0d0b6c.svg"
