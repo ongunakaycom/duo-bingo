@@ -5,7 +5,6 @@
         <p class="lead">Learn a new language with fun and interactive lessons.</p>
         <hr class="my-4">
         <p>Choose from a variety of languages and start your journey today!</p>
-        <router-link to="/courses" class="btn btn-primary btn-lg" role="button">Get Started</router-link>
       </div>
     </div>
   </template>
