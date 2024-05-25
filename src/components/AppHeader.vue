@@ -1,15 +1,14 @@
 <template>
   <header>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="container">
+      <div class="container d-flex justify-content-between">
         <a class="navbar-brand" href="#">Duolingo</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav-collapse" aria-controls="nav-collapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="nav-collapse">
-          <ul class="navbar-nav ml-auto">
+          <ul class="navbar-nav ms-auto">
             <li class="nav-item dropdown">
-              <!-- Bağlantıyı dropdown tetikleyiciyle birleştirin -->
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 SITE LANGUAGE: ENGLISH
               </a>
@@ -28,11 +27,9 @@
 
 <script>
 export default {
-  // Herhangi bir mantık veya veri özelliği buraya eklenebilir
 };
 </script>
 
 <style scoped>
-/* Herhangi özel CSS stilleri buraya eklenebilir */
 @import './AppHeader.css';
 </style>
