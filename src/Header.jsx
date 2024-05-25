@@ -4,13 +4,13 @@ import './App.css';
 const Header = () => {
   return (
     <nav className="navbar navbar-expand-ml navbar-light custom-header">
-      <a className="navbar-brand" href="/">
+      <button className="navbar-brand">
         <img
           src="https://d35aaqx5ub95lt.cloudfront.net/images/splash/f92d5f2f7d56636846861c458c0d0b6c.svg"
           alt="Duolingo"
           className="logo"
         />
-      </a>
+      </button>
       <div className="dropdown ml-auto">
         <button
           className="btn btn-secondary dropdown-toggle"
@@ -26,15 +26,15 @@ const Header = () => {
           className="dropdown-menu dropdown-menu-right"
           aria-labelledby="dropdownMenuButton"
         >
-          <a className="dropdown-item" href="#">
+          <button className="dropdown-item">
             English
-          </a>
-          <a className="dropdown-item" href="#">
+          </button>
+          <button className="dropdown-item">
             Spanish
-          </a>
-          <a className="dropdown-item" href="#">
+          </button>
+          <button className="dropdown-item">
             French
-          </a>
+          </button>
         </div>
       </div>
     </nav>
