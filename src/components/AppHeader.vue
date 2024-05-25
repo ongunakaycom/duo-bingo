@@ -9,9 +9,11 @@
         <div class="collapse navbar-collapse" id="nav-collapse">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item dropdown">
+              <!-- Bağlantıyı dropdown tetikleyiciyle birleştirin -->
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 SITE LANGUAGE: ENGLISH
               </a>
+              <!-- Dropdown menüsü -->
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li><a class="dropdown-item" href="#">SPANISH</a></li>
                 <li><a class="dropdown-item" href="#">TURKISH</a></li>
@@ -26,12 +28,11 @@
 
 <script>
 export default {
-  // You can add any logic or data properties here if needed
+  // Herhangi bir mantık veya veri özelliği buraya eklenebilir
 };
 </script>
 
 <style scoped>
-/* Add any custom CSS styles here */
+/* Herhangi özel CSS stilleri buraya eklenebilir */
 @import './AppHeader.css';
-
 </style>
