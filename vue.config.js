@@ -1,7 +1,13 @@
-const { defineConfig } = require('@vue/cli-service')
+const webpack = require('webpack');
 
-module.exports = defineConfig({
-  outputDir: 'dist', // 
-  publicPath: '/', //
-  // 
-})
+module.exports = {
+  outputDir: 'dist', 
+  publicPath: '/', 
+  configureWebpack: {
+    plugins: [
+      new webpack.ProvidePlugin({
+        process: 'process/browser',
+      }),
+    ],
+  },
+};
