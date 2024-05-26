@@ -1,6 +1,6 @@
-# Duobingo (Duolingo Clone)
+## Duobingo (Duolingo Clone)
 
-Duobingo is a Duolingo-inspired language learning web application built using React. It aims to provide a fun and interactive platform for users to practice and improve their language skills. This project was developed as part of my portfolio to showcase my frontend development skills and proficiency with React.
+Duobingo is a Duolingo-inspired language learning web application built using Vue.js. It aims to provide a fun and interactive platform for users to practice and improve their language skills. This project was developed as part of my portfolio to showcase my frontend development skills and proficiency with Vue.js.
 
 ## Features
 
@@ -12,9 +12,8 @@ Duobingo is a Duolingo-inspired language learning web application built using Re
 
 ## Technologies Used
 
-- **React:** The frontend of Duobingo is built using React, a popular JavaScript library for building user interfaces.
-- **Create React App:** Duobingo was bootstrapped with Create React App, enabling rapid development without the need for complex configuration.
-- **CSS:** Styling for Duobingo is done using CSS, ensuring a clean and visually appealing user interface.
+- **Vue.js:** The frontend of Duobingo is built using Vue.js, a progressive JavaScript framework for building user interfaces.
+- **Bootstrap 5:** Styling and responsive design for Duobingo are handled using Bootstrap 5, a modern CSS framework.
 - **Vercel:** The application is deployed using Vercel, allowing for easy and efficient deployment to the web.
 
 ## Getting Started
@@ -24,8 +23,8 @@ To run Duobingo locally on your machine, follow these steps:
 1. Clone this repository to your local machine using `git clone`.
 2. Navigate to the project directory.
 3. Install dependencies by running `npm install`.
-4. Start the development server with `npm start`.
-5. Open http://localhost:3000 in your browser to view Duobingo.
+4. Start the development server with `npm run serve`.
+5. Open [http://localhost:8080](http://localhost:8080) in your browser to view Duobingo.
 
 ## Live Demo
 
