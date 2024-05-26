@@ -16,20 +16,6 @@ Duobingo is a Duolingo-inspired language learning web application built using Vu
 - **Bootstrap 5:** Styling and responsive design for Duobingo are handled using Bootstrap 5, a modern CSS framework.
 - **Vercel:** The application is deployed using Vercel, allowing for easy and efficient deployment to the web.
 
-## Getting Started
-
-To run Duobingo locally on your machine, follow these steps:
-
-1. Clone this repository to your local machine using `git clone`.
-2. Navigate to the project directory.
-3. Install dependencies by running `npm install`.
-4. Start the development server with `npm run serve`.
-5. Open [http://localhost:8080](http://localhost:8080) in your browser to view Duobingo.
-
-## Live Demo
-
-Check out the live demo of Duobingo [here](https://duo-bingo.vercel.app) to experience the language learning fun firsthand!
-
 ## Feedback and Contributions
 
 Feedback and contributions are welcome! If you have any suggestions for improving Duobingo or would like to contribute to the project, feel free to open an issue or submit a pull request on GitHub.
